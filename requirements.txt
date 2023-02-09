@@ -1,0 +1,2 @@
+allennlp-models==2.10.1
+sentence-transformers==2.2.2
